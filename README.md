@@ -45,8 +45,11 @@ This directory has the velocity datasets used in this study. We specified the na
 
 10. Testing speed.ipynb - This notebook has codes to benchmark the computational time spent to implement advection.
 
+## GEOSChem_Config
+This directory has GEOSChem configuration files I used to generate the baseline wind velocity fields. Later the meteorology fields in 5-minute intervals were post-processed by using the Julia Jupyter Notebook.
+
 ## Data
-1. models_and_outputs - The model parameters and outputs will be uploaded in a separate Zenodo space due to the large volume.
+1. models_and_outputs - The model parameters and outputs will be uploaded in a separate space due to the large volume.
 
 ## Acknowledgment
 This work is financially supported by the Early Career Faculty grant of National Aeronautics and Space Administration (grant no. 80NSSC21K1813). MP is supported by the Carver Fellowship and Illinois Distinguished Fellowship.
